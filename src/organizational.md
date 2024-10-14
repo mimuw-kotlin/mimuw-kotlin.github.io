@@ -2,7 +2,7 @@
 
 Zajęcia w poniedziałki o 16:15 w sali 2041.
 
-Classroom: [https://classroom.github.com/classrooms/184865136-kotlin-mimuw-2024z]()
+Classroom: [https://classroom.github.com/classrooms/184865136-kotlin-mimuw-2024z](https://classroom.github.com/classrooms/184865136-kotlin-mimuw-2024z)
 
 ## Terminy
 
