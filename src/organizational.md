@@ -8,8 +8,6 @@ Classroom: [https://classroom.github.com/classrooms/184865136-kotlin-mimuw-2024z
 
 ### Małe zadania
 
-
-
 | Nr | Link                                                   | Data             |
 |----|--------------------------------------------------------|------------------|
 | 1  | [Interpreter](https://classroom.github.com/a/s-3N-icS) | 20.10.2024 23:59 |
