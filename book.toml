@@ -1,0 +1,6 @@
+[book]
+authors = ["Andrzej Głuszak"]
+language = "pl"
+multilingual = false
+src = "src"
+title = "Kotlin @ MIMUW"
