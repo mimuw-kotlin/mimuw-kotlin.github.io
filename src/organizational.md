@@ -8,9 +8,10 @@ Classroom: [https://classroom.github.com/classrooms/184865136-kotlin-mimuw-2024z
 
 ### Małe zadania
 
-| Nr | Link                                                   | Data             |
-|----|--------------------------------------------------------|------------------|
-| 1  | [Interpreter](https://classroom.github.com/a/s-3N-icS) | 20.10.2024 23:59 |
+| Nr | Link                                                          | Data             |
+|----|---------------------------------------------------------------|------------------|
+| 1  | [Interpreter](https://classroom.github.com/a/s-3N-icS)        | 20.10.2024 23:59 |
+| 2  | [Binary Search Tree](https://classroom.github.com/a/YFFKnzb3) | 10.11.2024 23:59 |
 
 
 ### Duże zadanie
