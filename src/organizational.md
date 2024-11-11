@@ -12,13 +12,15 @@ Classroom: [https://classroom.github.com/classrooms/184865136-kotlin-mimuw-2024z
 |----|---------------------------------------------------------------|------------------|
 | 1  | [Interpreter](https://classroom.github.com/a/s-3N-icS)        | 20.10.2024 23:59 |
 | 2  | [Binary Search Tree](https://classroom.github.com/a/YFFKnzb3) | 10.11.2024 23:59 |
+| 3  | [Origami](https://classroom.github.com/a/-0SoTDFN)            | 24.11.2024 23:59 |
 
 
 ### Duże zadanie
 
-- Wstępna propozycja tematu - najpóźniej na zajęciach 4.11.2024
+[Link do dobierania się w grupy i składania propozycji tematów](https://classroom.github.com/a/M0kyOMLZ)
+
 - Akceptacja tematu - do 18.11.2024
-- Oddanie pierwszej części projektu ~ początek grudnia
+- Oddanie pierwszej części projektu - 09.12.2024
 - Oddanie drugiej części projektu ~ początek stycznia
 - Prezentacje - ostatnie zajęcia semestru
 
